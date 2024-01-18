@@ -12,3 +12,12 @@ In this code the programme asks "how many ways do you want to divide apples?". I
 Being able to handle keyboard inputs is incredibly inportant. Being able to ask the user to input multiple pieces of information alongside returning infomation to them is fundamental.
 
 This code asks the user to input their name, then it asks for their age. After this it automatically replies with what their age will be in 5+ years. Finally it asks the user to input their GPA (Grade Point Average). It returns their grade in a floating point number.
+
+***
+# If Else
+
+If, elif and else statements are used to help automate the decision making process in programming. They are conditional statements, and for these statements to run their respective corrosponding conditions must be met.
+
+Here I have made a high score checker and a grade checker. For the high score of 9000 to be beaten, the user must input a number greater than 9000. Else they will not have beaten the highscore.
+
+For the grade checker, the user must input their int value. The programme will then run through each condition from Grade A to Grade F. The programme will stop when it has met the correct condition via the elif statements.
