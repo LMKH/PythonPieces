@@ -14,10 +14,17 @@ Being able to handle keyboard inputs is incredibly important. Being able to ask 
 This code asks the user to input their name, then it asks for their age. After this, it automatically replies with what their age will be in 5+ years. Finally, it asks the user to input their GPA (Grade Point Average). It returns their grade in a floating point number.
 
 ***
-# If Else
+# If, Elif and Else
 
 If, elif and else statements are used to help automate the decision-making process in programming. They are conditional statements, and for these statements to run their respective corresponding conditions must be met.
 
 Here I have made a high score checker and a grade checker. For the high score of 9000 to be beaten, the user must input a number greater than 9000. Else they will not have beaten the high score.
 
 For the grade checker, the user must input their int value. The programme will then run through each condition from Grade A to Grade F. The programme will stop when it has met the correct condition via the elif statements.
+
+***
+# Nested If
+
+Nested If's is where we nest an if statement inside of another if statement without the need of an else statement. However you can still include an else statement, like how I have done here. 
+
+Nesting an if statement makes the programme flow in a semantic order and it also makes the code more easier to understand and follow along with.
