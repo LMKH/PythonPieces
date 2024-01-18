@@ -9,7 +9,7 @@ In this code the programme asks "how many ways do you want to divide apples?". I
 ***
 # Keyboard Inputs
 
-Being able to handle keyboard inputs is incredibly inportant. Being able to ask the user to input multiple pieces of information alongside returning infomation to them is fundamental.
+Being able to handle keyboard inputs is incredibly inportant. Being able to ask the user to input multiple pieces of information alongside returning information to them is fundamental.
 
 This code asks the user to input their name, then it asks for their age. After this it automatically replies with what their age will be in 5+ years. Finally it asks the user to input their GPA (Grade Point Average). It returns their grade in a floating point number.
 
