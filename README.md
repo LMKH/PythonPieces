@@ -25,6 +25,6 @@ For the grade checker, the user must input their int value. The programme will t
 ***
 # Nested If
 
-Nested If's is where we nest an if statement inside of another if statement without the need of an else statement. However you can still include an else statement, like how I have done here. 
+Nested If's is where we nest an if statement inside of another if statement without the need for an else statement. However, you can still include an else statement, like how I have done here.
 
-Nesting an if statement makes the programme flow in a semantic order and it also makes the code more easier to understand and follow along with.
+Nesting an if statement makes the programme flow in a semantic order and it also makes the code easier to understand and follow.
