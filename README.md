@@ -28,3 +28,10 @@ For the grade checker, the user must input their int value. The programme will t
 Nested If's is where we nest an if statement inside of another if statement without the need for an else statement. However, you can still include an else statement, like how I have done here.
 
 Nesting an if statement makes the programme flow in a semantic order and it also makes the code easier to understand and follow.
+
+***
+# Computer Parts: Dictionary
+
+In this programme I utilise the dictionary method to create a "shopping basket". The user simply inputs the corresponding number to what they want off the available_parts "menu".
+
+The programme will add the selected items to a list and will continue to do this until the user quits. If the user wishes to remove something they have added to the list, all they need to do is simply input the correct number again and it will be removed from the list. This is done by using the .pop() method. If the user enters a number that is not on the list, they will be asked to try again by re-inputting the number.
