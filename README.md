@@ -35,3 +35,10 @@ Nesting an if statement makes the programme flow in a semantic order and it also
 In this programme I utilise the dictionary method to create a "shopping basket". The user simply inputs the corresponding number to what they want off the available_parts "menu".
 
 The programme will add the selected items to a list and will continue to do this until the user quits. If the user wishes to remove something they have added to the list, all they need to do is simply input the correct number again and it will be removed from the list. This is done by using the .pop() method. If the user enters a number that is not on the list, they will be asked to try again by re-inputting the number.
+
+***
+# Candidates
+
+In a list we have the required skills needed for a job role. The candidates MUST have all 3 of the required skills in order to be accepted. Using a dictonary, we can see each candidates name and with each candidate they have a coresponding nested dictionary which holds all of their skills. 
+
+I utalise the set() function to create a new object. A for loop will take the candidate, their skills and see if they have ALL the required skills. If they do, they get added to the new interviewees dictonary. I do this by utalisng the .add() method. If they do not have the all the required skillsd they will be ignored. Finally, the programme will return a dictionary with the candidates who have the required skills.
