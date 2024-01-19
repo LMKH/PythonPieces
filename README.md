@@ -39,6 +39,6 @@ The programme will add the selected items to a list and will continue to do this
 ***
 # Candidates
 
-In a list we have the required skills needed for a job role. The candidates MUST have all 3 of the required skills in order to be accepted. Using a dictonary, we can see each candidates name and with each candidate they have a coresponding nested dictionary which holds all of their skills. 
+In a list, we have the required skills needed for a job role. The candidates MUST have all 3 of the required skills to be accepted. Using a dictionary, we can see each candidate's name and with each candidate, they have a corresponding nested dictionary that holds all of their skills. 
 
-I utalise the set() function to create a new object. A for loop will take the candidate, their skills and see if they have ALL the required skills. If they do, they get added to the new interviewees dictonary. I do this by utalisng the .add() method. If they do not have the all the required skillsd they will be ignored. Finally, the programme will return a dictionary with the candidates who have the required skills.
+I utilise the set() function to create a new object. A for loop will take the candidate, and their skills and see if they have ALL the required skills. If they do, they get added to the new interviewee's dictionary. I do this by utilising the .add() method. If they do not have all the required skills they will be ignored. Finally, the programme will return a dictionary to the user with all the candidates who have the required skills.
